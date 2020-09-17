@@ -1,0 +1,34 @@
+lst initially has: 
+** List is empty. **
+Removing back: 
+after removing back, lst now has: 
+** List is empty. **
+after appending "hi there" and "class", lst now has: 
+Item 1:  hi there
+Item 2:  class
+Previewing back: class
+after calling preview back, lst now has: 
+Item 1:  hi there
+Item 2:  class
+Removing back: class
+after removing back, lst now has: 
+Item 1:  hi there
+Removing back: hi there
+after removing back, lst now has: 
+** List is empty. **
+Previewing back: 
+after calling preview back, lst now has: 
+** List is empty. **
+after inserting "and enjoy your summer" at front, lst now has: 
+Item 1:  and enjoy your summer
+after inserting "good luck with finals" at front, lst now has: 
+Item 1:  good luck with finals
+Item 2:  and enjoy your summer
+after inserting "you are awesome" at front, lst now has: 
+Item 1:  you are awesome
+Item 2:  good luck with finals
+Item 3:  and enjoy your summer
+Removing back: and enjoy your summer
+after removing back, lst now has: 
+Item 1:  you are awesome
+Item 2:  good luck with finals
